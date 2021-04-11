@@ -1,5 +1,10 @@
 # spring-apiRest-demo
 
+En el directorio **demo/target/** ejecutar el comando 
+`java -jar demo-0.0.1-SNAPSHOT.jar`
+
+Esto iniciará el servidor en el puerto 8080
+
 ## Allowed HTTP requests
 
 **GET** /searchMovie

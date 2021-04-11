@@ -10,7 +10,7 @@
  * **title** = "title/words to search the movie"
 
 
-**Example** -> <br/> http://localhost:8080/searchMovie?apiKey=JSQ8DA8q3WCrVCuy7bmAYneddQcsmmYg&title=La%20guerra%20de%20las%20galaxias - automatic!
+**Example** -> <br/> http://localhost:8080/searchMovie?apiKey=JSQ8DA8q3WCrVCuy7bmAYneddQcsmmYg&title=La%20guerra%20de%20las%20galaxias
 
 **Response**: <br/>
   * If apiKey is invalid  ->  
